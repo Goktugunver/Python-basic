@@ -1,0 +1,4 @@
+Define 3 numeric variables.
+
+Print the largest and smallest of these numbers separately on the screen.
+ 

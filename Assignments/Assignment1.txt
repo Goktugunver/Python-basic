@@ -1,0 +1,5 @@
+Define 2 numeric variables.
+
+Assign the desired value to these numbers.
+
+Whichever of these numbers is large, print them on the screen.
