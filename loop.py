@@ -1,6 +1,6 @@
-krediler = ["Kredi A","Kredi B","Kredi C","Kredi D"]
+credits = ["credit A","credit B","credit C","credit D"]
 
-for kredi in krediler: 
-    print(kredi)
+for credit in credits: 
+    print(credit)
 
     

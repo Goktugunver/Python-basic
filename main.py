@@ -1,13 +1,13 @@
-Listelendi = "Krediler Listelendi"
+listed = "credits listed"
 
 
-def kredileriListele():
-    krediler = ["Kredi A","Kredi B","Kredi C","Kredi D"]
-    
-    for kredi in krediler: 
-        print(kredi)
+def listCredits():
+    krediler = ["credit A","credit B","credit C","credit D"]
+
+    for credit in credits: 
+        print(credit)
    
 
 
 
-kredileriListele()
+listCredits()
